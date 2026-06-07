@@ -4,22 +4,23 @@
 Machine Learning • MLOps • Cloud Deployment
 </h3>
 
-
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on  
-  **Visa Approval Prediction using MLOps**
+* 💼 Working on building and deploying machine learning systems with a focus on **MLOps and Cloud Infrastructure**
 
-- 🌱 Currently learning  
-  **Advanced MLOps, Cloud Architecture & Scalable ML Systems**
+* 🌱 Currently learning
+  **Advanced MLOps, Cloud Architecture, CI/CD, and Scalable ML Systems**
 
-- 💡 Interested in  
-  **Machine Learning, MLOps, Model Deployment & Automation**
+* 💡 Interested in
+  **Machine Learning, MLOps, Model Deployment, Cloud-Native Applications, and Automation**
 
-- 📫 Reach me at  
-  **hardikmishra957@gmail.com**
+* 🔭 Recently completed
+  **An end-to-end MLOps pipeline for Visa Approval Prediction using FastAPI, MongoDB, AWS, Docker, and GitHub Actions**
+
+* 📫 Reach me at
+  **[hardikmishra957@gmail.com](mailto:hardikmishra957@gmail.com)**
 
 ---
 
@@ -75,6 +76,14 @@ Machine Learning • MLOps • Cloud Deployment
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 </a>
 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github_actions" width="45" height="45"/>
+</a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </a>
@@ -87,12 +96,8 @@ Machine Learning • MLOps • Cloud Deployment
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
 </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -105,15 +110,15 @@ Machine Learning • MLOps • Cloud Deployment
 
 ## 📌 Featured Project
 
-### 🔹 Visa Approval Prediction
+### 🔹 Visa Approval Prediction MLOps Pipeline
 
-End-to-end MLOps project with model training, deployment pipeline, and cloud integration.
+Built an end-to-end machine learning pipeline featuring automated data ingestion, validation, drift detection, model training, evaluation, AWS S3 model deployment, and CI/CD automation using GitHub Actions, Amazon ECR Public, Docker, and an EC2 self-hosted runner.
 
-🔗 Repository:  
+🔗 Repository:
 https://github.com/Hardik782/mlops-visa-approval-prediction
 
 ---
 
 ## ⚡ Quote
 
-> “Building scalable machine learning systems for real-world impact.”
+> “Building reliable machine learning systems that move from experimentation to production.”
